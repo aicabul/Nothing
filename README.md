@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ᴍᴜᴋᴇꜱʜ ᴍᴜꜱɪᴄ 」──
+    ──「 Nothing Music 」──
 </h2>
 
 <p align="center">
