@@ -14,10 +14,6 @@
 <a href="https://github.com/Noob-Mukesh/MukeshMusic/commits/Noob-Mukesh"> <img src="https://img.shields.io/github/last-commit/Noob-Mukesh/MukeshMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
-</p>
-
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
