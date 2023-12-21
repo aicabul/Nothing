@@ -33,8 +33,8 @@
         "required": true
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": " Gʀᴏᴜᴘ Cᴏɴᴛʀᴏʟʟᴇʀ ダ ᴍᴜsɪᴄ",
+        "description": "A name for your Music Bot. You can use special characters bot",
+        "value": " Gʀᴏᴜᴘ Cᴏɴᴛʀᴏʟʟᴇʀ  ᴍᴜsɪᴄ",
         "required": true
       },
       "OWNER_ID": {
